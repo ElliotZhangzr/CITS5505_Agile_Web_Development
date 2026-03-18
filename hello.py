@@ -1,1 +1,1 @@
-print ("Hello everyone from Kush")
+Print("Hello mate!")
